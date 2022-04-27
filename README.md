@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abigail-MM
+- 👋 Hi, I’m @abigail-mm
 - 👀 I’m interested in Tech
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on ...
